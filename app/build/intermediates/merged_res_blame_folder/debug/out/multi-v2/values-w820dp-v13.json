@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "mooc.vandy.java4android.calculator.app-mergeDebugResources-13:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Naim\\Downloads\\0pHTZ2W3SjmR02dlt_o5Dw_bd6c4f86bcf044839ebb56c693dca5c5_m8-calculator-assignment\\m8-calculator\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
